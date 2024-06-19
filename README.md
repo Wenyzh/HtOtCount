@@ -1,2 +1,2 @@
 # HtOtCount
-Automatic count method in connt9
+Automatic count method in count9
